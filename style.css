@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.counter-box {
+  text-align: center;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
